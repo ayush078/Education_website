@@ -1,1 +1,1 @@
-# Education_website
+# Education-Project
